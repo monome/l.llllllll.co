@@ -1,3 +1,1 @@
-l.llllllll.co
-
-url simplifier for line library
+l.llllllll.co - a url simplifier for the lines library
