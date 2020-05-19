@@ -1,6 +1,0 @@
----
-layout: redirected
-sitemap: false
-permalink: /test/
-redirect_to: https://llllllll.co
----
